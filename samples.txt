@@ -1,0 +1,13 @@
+	sample_id	condition
+1	R273	nonrelapse
+2	R314	nonrelapse
+3	R318	nonrelapse
+4	R320	nonrelapse
+5	R382	nonrelapse
+6	R395	nonrelapse
+7	R135	relapse
+8	R171	relapse
+9	R243	relapse
+10	R254	relapse
+11	R260	relapse
+12	R329	relapse
