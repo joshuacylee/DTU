@@ -2,9 +2,6 @@
 #Salmon folder, with subfolder containing NAME of the sample, and quant.sf in the subfolder
 #Need to create samples.txt with details of samples that are being compared. Format explained below
 
-# Less so for illumina than ONT data, but this code can be computing demanding, so please make sure to save data as you go along to avoid crashes
-## Especially the dmPrecision step, which can take a while for 5vs5 samples
-
 #This script uses recurrent vs non-recurrent ccRCC samples as an example
 
 #load libraries
